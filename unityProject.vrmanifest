@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.segwaytron.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\boome\\Documents\\Projects\\SegwayTron\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "SegwayTron [Testing]"
+        }
+      }
+    }
+  ]
+}
